@@ -41,9 +41,7 @@ Me:Greet()
 
 ## 🗺️ My Roadmap
 
-<div align="center">
-  <img src="assets/learning-path.svg" width="100%" alt="Learning path" />
-</div>
+<div align="center"> <img src="./assets/learning-path.svg" width="100%" alt="Learning path: Luau Basics, Roblox Services, Game Systems, Pro Developer" /> </div> <br/>
 
 <br/>
 
