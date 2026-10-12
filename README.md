@@ -84,9 +84,9 @@ Me:Greet()
 
 <div align="center">
 
-<a href="https://www.roblox.com/users/YOUR_ROBLOX_ID/profile"><img src="https://img.shields.io/badge/Roblox-Profile-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" /></a>
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.roblox.com/users/TO-BE-DECIDED"><img src="https://img.shields.io/badge/Roblox-Profile-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" /></a>
+<a href="https://discord.com/users/homicideaddicted"><img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="mailto:wenlly.chang26ti@mahasiswa.pcr.ac.id"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
