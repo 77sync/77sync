@@ -1,11 +1,5 @@
 # Hi 👋, I'm chriszzz
 
-### A passionate developer from around the world
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=77sync&label=Profile views&color=0e75b6&style=flat" alt="77sync" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=77sync" alt="77sync" /></a> </p>
-
 - 🌱 I'm currently learning **C++, Py, Luau**
 
 - 👯 I'm looking to collaborate on **open source projects**
